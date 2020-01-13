@@ -1,0 +1,2 @@
+SEED = 3
+THREAD_NUM = 4
